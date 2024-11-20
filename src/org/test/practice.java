@@ -2,13 +2,8 @@ package org.test;
 
 public class practice {
 	public static void main(String[] args) {
-		//changed
-		//hi
-		//bye
-		//done
-		System.out.println("1234567");
-		System.out.println("ok");
-		System.out.println("hello");
+		int a=10
+		System.out.println(a);
 		System.out.println("done");
 	}
 
